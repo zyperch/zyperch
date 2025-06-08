@@ -3,7 +3,7 @@
 - 🔭 Estudante de Segurança Cibernética !
 - 🔮 Conhecimento ninguém tira de você.
 
-
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="zyperch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
