@@ -1,16 +1,23 @@
-## Hi there 👋
+### Olá! Eu sou o Carlos 👋
 
-<!--
-**zyperch/zyperch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudante de Segurança Cibernética !
+- 🔮 Conhecimento ninguém tira de você.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Adri-c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Adri-c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Adri-c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Adri-c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/go/go-original-wordmark.svg" />
+
+          
+  
+          
+  
+</div>
+
+##
+
+<div> 
+  <a href="https://www.instagram.com/carlos_dhenrique/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
