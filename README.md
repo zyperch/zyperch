@@ -10,6 +10,7 @@
   <img align="center" alt="Adri-c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Adri-c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Adri-c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="Adri-c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/linux/linux-original.svg" />
 
           
   
